@@ -13,8 +13,7 @@ public class Application {
         int numeroLimite = scanner.nextInt();
         List<Integer> listaDePrimos = new ArrayList();
         List<Integer> listaSomaPrimos = new ArrayList();
-
-//        encontraPrimo(n1);
+        
 
 
         for (int i = 1; i <= numeroLimite; i ++){
