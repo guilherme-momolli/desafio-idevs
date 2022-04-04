@@ -14,7 +14,7 @@ public class Application {
         String grupoL4 = "FHVWY";
         String grupoL5 = "k";
         String grupoL6 = "JX";
-        String grupoL7 Z";
+        String grupoL7 = "Z";
 
         System.out.println("ANTES DE COMEÇARMOS VEJA PRIMEIRO A TABELA ");
         System.out.println("UM GRUPO DE LETRAS TERÁ UM VALOR ATRIBUIDO SERÁ FEITO UMA SOMA NO FINAL COM CADA LETRA DA PALAVRA   ");
